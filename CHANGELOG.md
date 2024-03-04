@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-kops/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([b4dfcc0](https://github.com/kc-workspace/asdf-kops/commit/b4dfcc0efd016fbf3ea12d7a14fe5961fbeac46b))
+* update plugin from template [autocommit] ([2dab307](https://github.com/kc-workspace/asdf-kops/commit/2dab30779d14a395b7b11ac1162e894a70dcaad2))
+
 ## 1.0.0 (2023-11-06)
 
 
